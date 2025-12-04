@@ -2,8 +2,6 @@
 
 A simple, efficient, and secure web application to generate strong passwords based on user preferences. This project was built to practice DOM manipulation and algorithm logic in JavaScript.
 
-([Buraya projenin ekran görüntüsünü veya Canlı Demo linkini ekleyebilirsin])
-
 ## 🚀 Features (Özellikler)
 
 *   **Customizable Length:** Users can set the password length.
@@ -26,10 +24,9 @@ A simple, efficient, and secure web application to generate strong passwords bas
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/kullaniciadi/proje-adi.git)
-    ```
+    git clone https://github.com/OmerEmiral/CipherCraft
 2.  Open `index.html` in your browser.
 3.  Select your preferences and click **Generate**.
 
 ---
-*Developed by [Senin Adın]*
+*Developed by https://github.com/OmerEmiral
